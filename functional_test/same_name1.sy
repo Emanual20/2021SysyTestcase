@@ -1,0 +1,13 @@
+int a = 3;
+
+int a()
+{
+    return 4 + a;
+}
+
+int main()
+{
+    int i;
+    i = a + a();
+    return i;
+}

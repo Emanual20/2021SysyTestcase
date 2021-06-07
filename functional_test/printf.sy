@@ -1,0 +1,8 @@
+int main()
+{
+    int n=2;
+    int a[2] = {2, 3};
+    putf("NKUTeda!%d\n", 12);
+    putf("%d:%d(%c),%d(%c)",n,a[0],a[0]+48,a[1],a[1]+48);
+    return 0;
+}

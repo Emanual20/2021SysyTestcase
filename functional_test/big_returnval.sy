@@ -1,0 +1,5 @@
+int main(){
+    int x = 99999;
+    putint(x);
+    return 99999;
+}
